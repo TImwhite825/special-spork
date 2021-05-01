@@ -1,2 +1,0 @@
-# special-spork
-CSU Global
